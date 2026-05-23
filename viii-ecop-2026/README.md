@@ -11,8 +11,8 @@
 
 | Problem | Language | Source code |
 | :---:   | :---:    | :---:       |
-| 1009 | ![C][badge_c] | [1009.c](/viii-ecop-2026/warmup/1009.c) |
-| 1026 | ![C][badge_c] | [1026.c](/viii-ecop-2026/warmup/1026.c) |
+| [1009](https://judge.beecrowd.com/pt/problems/view/1009) | ![C][badge_c] | [1009.c](/viii-ecop-2026/warmup/1009.c) |
+| [1026](https://judge.beecrowd.com/pt/problems/view/1026) | ![C][badge_c] | [1026.c](/viii-ecop-2026/warmup/1026.c) |
 
 ## Problems
 
@@ -21,7 +21,7 @@
 | 1435 | | |
 | [1564](https://judge.beecrowd.com/pt/problems/view/1564) | ![C][badge_c] | [1564.c](/viii-ecop-2026/problems/1564.c) |
 | 1574 | | |
-| 1789 | | |
+| [1789](https://judge.beecrowd.com/pt/problems/view/1789) | ![C][badge_c] | [1789.c](/viii-ecop-2026/problems/1789.c) |
 | 1837 | | |
 | 1847 | | |
 | 1864 | | |
