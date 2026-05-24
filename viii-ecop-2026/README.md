@@ -1,32 +1,34 @@
-[badge_c]: https://img.shields.io/badge/C99-blue?style=flat-square&logo=c&logoColor=white
+[C_Badge]: https://img.shields.io/badge/C99%20-%20blue?style=flat-square&logo=c&logoColor=white&color=blue
 
 <div align="center">
 
 # Maratona de Programação - VIII ECOP 2026
 
-![Year](https://img.shields.io/badge/year-2026-blue.svg)\
-![C](https://img.shields.io/badge/C99-blue?logo=c&logoColor=white)
+![Static Badge](https://img.shields.io/badge/05%2F2026%20-%20white?style=plastic&label=date&color=white)
+![Static Badge](https://img.shields.io/badge/beecrowd%20-%20white?style=plastic&label=platform&color=white)
+
+![Static Badge](https://img.shields.io/badge/C99%20-%20blue?style=plastic&logo=c&logoColor=white&color=blue)
 
 ## Warmup
 
-| Problem | Language | Source code |
-| :---:   | :---:    | :---:       |
-| [1009](https://judge.beecrowd.com/pt/problems/view/1009) | ![C][badge_c] | [1009.c](/viii-ecop-2026/warmup/1009.c) |
-| [1026](https://judge.beecrowd.com/pt/problems/view/1026) | ![C][badge_c] | [1026.c](/viii-ecop-2026/warmup/1026.c) |
+|       | Problem | Name  | Language | Source code |
+| :---: | :---:   | :---: | :---:    | :---:       |
+| A | [1009](https://judge.beecrowd.com/pt/problems/view/1009) | Salário com Bônus | ![C][C_Badge] | [1009.c](/viii-ecop-2026/warmup/1009.c) |
+| B | [1026](https://judge.beecrowd.com/pt/problems/view/1026) | Carrega ou não Carrega? | ![C][C_Badge] | [1026.c](/viii-ecop-2026/warmup/1026.c) |
 
 ## Problems
 
-| Problem | Language | Source code |
-| :---:   | :---:    | :---:       |
-| 1435 | | |
-| [1564](https://judge.beecrowd.com/pt/problems/view/1564) | ![C][badge_c] | [1564.c](/viii-ecop-2026/problems/1564.c) |
-| 1574 | | |
-| [1789](https://judge.beecrowd.com/pt/problems/view/1789) | ![C][badge_c] | [1789.c](/viii-ecop-2026/problems/1789.c) |
-| 1837 | | |
-| 1847 | | |
-| 1864 | | |
-| 1873 | | |
-| 1933 | | |
-| 2058 | | |
+|       | Problem | Name  | Language | Source code |
+| :---: | :---:   | :---: | :---:    | :---:       |
+| A | 1435 | Matriz Quadrada I | | |
+| B | [1564](https://judge.beecrowd.com/pt/problems/view/1564) | Vai Ter Copa? | ![C][C_Badge] | [1564.c](/viii-ecop-2026/problems/1564.c) |
+| C | 1574 | Instruções do Robô | | |
+| D | [1789](https://judge.beecrowd.com/pt/problems/view/1789) | A Corrida de Lesmas | ![C][C_Badge] | [1789.c](/viii-ecop-2026/problems/1789.c) |
+| E | 1837 | Prefácio | | |
+| F | 1847 | Bem-vindos e Bem-vindas ao Inverno! | | |
+| G | [1864](https://judge.beecrowd.com/pt/problems/view/1864) | Nossos Dias Nunca Voltarão | ![C_BADGE] | [1864.c](/viii-ecop-2026/problems/1864.c) |
+| H | 1873 | Pedra-papel-tesoura-lagarto-Spock | | |
+| I | 1933 | Tri-du | | |
+| J | 2058 | Triângulos e Polígonos Regulares | | |
 
 </div>
