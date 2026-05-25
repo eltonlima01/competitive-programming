@@ -28,7 +28,7 @@
 | F | 1847 | Bem-vindos e Bem-vindas ao Inverno! | | |
 | G | [1864](https://judge.beecrowd.com/pt/problems/view/1864) | Nossos Dias Nunca Voltarão | ![C_BADGE] | [1864.c](/viii-ecop-2026/problems/1864.c) |
 | H | 1873 | Pedra-papel-tesoura-lagarto-Spock | | |
-| I | 1933 | Tri-du | | |
+| I | [1933](https://judge.beecrowd.com/pt/problems/view/1933) | Tri-du | ![C][C_Badge] | [1933.c](/viii-ecop-2026/problems/1933.c) |
 | J | 2058 | Triângulos e Polígonos Regulares | | |
 
 </div>
